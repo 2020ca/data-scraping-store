@@ -1,0 +1,378 @@
+Rank,Country,Mbps
+1,Qatar,473.58
+2,United Arab Emirates,462.61
+3,South Korea,285.04
+4,Kuwait,277.67
+5,Denmark,232.84
+6,Saudi Arabia,222.37
+7,United States,215.03
+8,Norway,211.30
+9,Bahrain,204.80
+10,Singapore,199.64
+11,Bulgaria,195.13
+12,Malaysia,187.86
+13,China,186.28
+14,Brazil,185.61
+15,Portugal,178.16
+16,France,174.80
+17,India,173.42
+18,North Macedonia,169.73
+19,Sweden,168.56
+20,Croatia,165.85
+21,Cyprus,164.68
+22,Switzerland,161.40
+23,Lithuania,161.28
+24,Estonia,157.40
+25,New Zealand,154.46
+26,Australia,153.12
+27,Greece,150.72
+28,Finland,150.69
+29,Taiwan,145.15
+30,Latvia,141.97
+31,Netherlands,140.99
+32,Belgium,138.68
+33,Oman,136.33
+34,Canada,134.15
+35,Spain,130.19
+36,Slovenia,124.97
+37,Czechia,123.03
+38,Germany,119.80
+39,Hong Kong (SAR),119.31
+40,Poland,113.72
+41,Dominican Republic,110.60
+42,Austria,109.77
+43,United Kingdom,108.18
+44,Kazakhstan,104.76
+45,Guatemala,102.07
+46,Italy,101.35
+47,South Africa,100.30
+48,Hungary,99.25
+49,Romania,99.24
+50,Israel,99.20
+51,Montenegro,97.22
+52,Kosovo,94.27
+53,Ireland,93.95
+54,Thailand,92.99
+55,Slovakia,91.89
+56,Japan,84.06
+57,Moldova,81.48
+58,Chile,78.36
+59,Albania,73.48
+60,Philippines,71.19
+61,Serbia,68.57
+62,Nigeria,68.41
+63,Azerbaijan,67.46
+64,Turkey,67.13
+65,Mexico,67.04
+66,Vietnam,64.19
+67,Uzbekistan,63.62
+68,Argentina,63.20
+69,Morocco,62.56
+70,Kenya,58.30
+71,Iran,58.10
+72,Georgia,57.85
+73,Tanzania,54.81
+74,Colombia,54.06
+75,Jordan,53.07
+76,Honduras,52.41
+77,Costa Rica,51.86
+78,Kyrgyzstan,51.65
+79,Laos,49.30
+80,Lebanon,45.68
+81,Armenia,43.60
+82,Sri Lanka,42.85
+83,Iraq,41.29
+84,Tunisia,40.95
+85,Myanmar (Burma),40.00
+86,Russia,39.73
+87,Indonesia,39.26
+88,Cambodia,38.93
+89,El Salvador,38.71
+90,Ecuador,36.32
+91,Egypt,36.17
+92,Algeria,36.08
+93,Bangladesh,34.22
+94,Bosnia and Herzegovina,32.65
+95,Ukraine,32.09
+96,Peru,31.58
+97,Nicaragua,31.48
+98,Panama,29.56
+99,Belarus,26.92
+100,Paraguay,26.66
+101,Pakistan,25.51
+102,Venezuela,21.49
+103,Syria,21.35
+104,Libya,21.23
+105,Mongolia,20.39
+106,Bolivia,19.23
+107,Yemen,10.63
+108,Cuba,8.29
+1,Qatar,334.63
+2,United Arab Emirates,323.61
+3,Kuwait,226.56
+4,Norway,145.19
+5,Denmark,144.93
+6,South Korea,139.04
+7,China,135.71
+8,Saudi Arabia,128.03
+9,Netherlands,120.96
+10,Bahrain,113.87
+11,United States,113.10
+12,India,107.03
+13,Singapore,104.98
+14,France,103.40
+15,Finland,103.23
+16,Bulgaria,102.35
+17,Lithuania,100.38
+18,Sweden,100.08
+19,Malaysia,98.84
+20,Croatia,96.95
+21,Estonia,96.09
+22,Australia,94.28
+23,Switzerland,91.25
+24,North Macedonia,89.70
+25,Czechia,87.27
+26,Latvia,86.92
+27,Canada,86.32
+28,Portugal,85.02
+29,Taiwan,84.51
+30,Austria,83.97
+31,Greece,82.11
+32,Oman,80.19
+33,Belgium,79.27
+34,Slovenia,73.43
+35,New Zealand,72.25
+36,Cyprus,67.91
+37,Brazil,63.73
+38,Romania,61.64
+39,Hong Kong (SAR),61.36
+40,Germany,57.68
+41,Montenegro,57.36
+42,Poland,56.97
+43,Slovakia,54.75
+44,United Kingdom,54.51
+45,Hungary,54.44
+46,Serbia,53.65
+47,Italy,53.63
+48,Vietnam,53.38
+49,Azerbaijan,52.63
+50,South Africa,52.30
+51,Thailand,52.05
+52,Albania,50.94
+53,Spain,50.69
+54,Kazakhstan,46.63
+55,Japan,46.56
+56,Morocco,44.04
+57,Israel,43.24
+58,Turkey,41.97
+59,Ireland,41.11
+60,Georgia,40.06
+61,Chile,39.91
+62,Kosovo,39.00
+63,Moldova,38.99
+64,Guatemala,37.08
+65,Iran,36.97
+66,Kyrgyzstan,36.73
+67,Lebanon,34.98
+68,Costa Rica,33.29
+69,Philippines,33.19
+70,Argentina,31.72
+71,Honduras,31.45
+72,Iraq,31.28
+73,Mexico,30.91
+74,Myanmar (Burma),30.89
+75,Armenia,30.63
+76,Dominican Republic,30.52
+77,Uzbekistan,30.34
+78,El Salvador,29.99
+79,Laos,28.92
+80,Indonesia,28.35
+81,Tanzania,27.94
+82,Kenya,27.66
+83,Cambodia,27.56
+84,Jordan,27.16
+85,Tunisia,27.13
+86,Russia,25.63
+87,Egypt,25.49
+88,Algeria,24.91
+89,Ecuador,24.67
+90,Bangladesh,24.49
+91,Bosnia and Herzegovina,22.29
+92,Nigeria,21.96
+93,Ukraine,21.24
+94,Peru,20.56
+95,Panama,19.32
+96,Paraguay,18.94
+97,Pakistan,18.67
+98,Sri Lanka,18.53
+99,Nicaragua,18.44
+100,Colombia,18.40
+101,Libya,15.36
+102,Mongolia,14.96
+103,Syria,14.07
+104,Venezuela,12.66
+105,Belarus,11.87
+106,Bolivia,11.09
+107,Yemen,6.38
+108,Cuba,4.02
+1,Ar-Rayyan,419.35
+2,Doha,354.54
+3,Dubai,351.77
+4,Abu Dhabi,325.93
+5,Riyadh,273.74
+6,Copenhagen,255.90
+7,Kuwait City,244.55
+8,Porto,243.63
+9,Oslo,240.70
+10,Lisbon,217.96
+11,Shanghai,214.10
+12,Beijing,202.47
+13,Los Angeles,186.56
+14,Stockholm,185.74
+15,Jeddah,174.08
+16,Seoul,171.72
+17,Helsinki,170.38
+18,Antwerp,169.88
+19,Skopje,167.82
+20,New York,166.13
+21,São Paulo,165.68
+22,Paris,163.07
+23,Gothenburg,161.01
+24,Johor Bahru,154.54
+25,Zagreb,151.46
+26,Sofia,150.99
+27,Vilnius,147.96
+28,Toronto,139.67
+29,Lyon,138.70
+30,Kuala Lumpur,138.53
+31,Riga,135.11
+32,Busan,132.26
+33,Prague,130.99
+34,Rio de Janeiro,129.34
+35,Zürich,123.87
+36,Montreal,121.84
+37,Delhi,120.16
+38,Rotterdam,118.63
+39,Manama,115.15
+40,Melbourne (Greater),114.85
+41,Sydney,114.29
+42,Thessaloniki,113.05
+43,Warsaw,106.42
+44,Amsterdam,105.59
+45,Manchester,102.81
+46,Muscat,100.15
+47,Taipei,99.79
+48,Vienna,98.88
+49,Athens,98.65
+50,Kraków,97.30
+51,Hamburg,96.35
+52,Geneva,93.34
+53,Bucharest,93.05
+54,Berlin,92.98
+55,Dublin,92.34
+56,Madrid,89.22
+57,London,88.03
+58,Tel Aviv-Yafo,86.34
+59,Brussels,85.31
+60,Auckland,83.77
+61,New Taipei,83.59
+62,Milan,83.24
+63,Barcelona,82.47
+64,Almaty,80.14
+65,Budapest,76.93
+66,Bangkok,75.28
+67,Mumbai,73.25
+68,Rome,68.06
+69,Belgrade,64.52
+70,Baku,63.92
+71,Guatemala City,61.96
+72,Haifa,61.36
+73,Johannesburg,59.98
+74,Santo Domingo,59.59
+75,Osaka,58.95
+76,Casablanca,58.81
+77,Rabat,58.48
+78,Ho Chi Minh City,58.35
+79,Astana,57.15
+80,Santiago,55.09
+81,Manila,54.96
+82,Cape Town,54.93
+83,Chisinau,52.63
+84,Chon Buri,51.81
+85,Tokyo,51.24
+86,Buenos Aires,49.65
+87,Ankara,49.16
+88,Istanbul,48.92
+89,Beirut,48.59
+90,Hanoi,46.41
+91,Bishkek,46.02
+92,Moscow,44.01
+93,Lagos,43.60
+94,Nairobi,43.54
+95,Tbilisi,42.92
+96,Colombo,42.50
+97,Davao City,42.21
+98,Mandalay,41.96
+99,Yangon,41.49
+100,San Pedro Sula,41.10
+101,Tashkent,41.05
+102,Guadalajara,40.16
+103,Valparaíso,39.17
+104,Dar es Salaam,38.27
+105,Vientiane,37.91
+106,South Jakarta,37.64
+107,Samarkand,36.78
+108,San José,36.32
+109,Santiago De Los Caballeros,35.88
+110,Medellín,35.69
+111,Amman,35.67
+112,Tehran,35.59
+113,Phnom Penh,34.73
+114,Mashhad,34.19
+115,Chittagong,34.04
+116,Dhaka,33.94
+117,Mosul,33.92
+118,Córdoba,33.70
+119,Mombasa,33.63
+120,Az-Zarqa,32.74
+121,Bekasi,32.49
+122,Tunis,32.41
+123,Yerevan,32.30
+124,Mexico City,31.95
+125,Baghdad,30.95
+126,Saint Petersburg,30.89
+127,Kharkiv,30.21
+128,San Salvador,29.84
+129,Algiers,29.46
+130,Oran,29.13
+131,Sfax,28.96
+132,Guayaquil,28.51
+133,Tegucigalpa,27.24
+134,Mwanza,26.81
+135,Cairo,26.75
+136,Bogotá,25.15
+137,Minsk,23.23
+138,Managua,23.13
+139,Lahore,22.77
+140,Damascus,22.70
+141,Quito,22.70
+142,Alexandria,21.77
+143,Lima,20.41
+144,Karachi,20.12
+145,Kano,19.99
+146,Maracaibo,19.41
+147,Aleppo,19.01
+148,Kiev,18.97
+149,Panama City,18.74
+150,Tripoli,17.74
+151,Asuncion,16.36
+152,Caracas,16.33
+153,Misrata,15.31
+154,Ulaanbaatar,14.41
+155,Arequipa,14.37
+156,Sana'a,13.85
+157,Gomel,13.62
+158,Santa Cruz de la Sierra,12.29
+159,La Paz,9.67
+160,Aden,8.79
+161,Havana,4.47
